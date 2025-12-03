@@ -1,0 +1,7 @@
+{
+  "name": "Sihirli Şifreler (Magic Codes)",
+  "description": "A creative educational game for children where they create AI characters, decode visual ciphers, and solve math puzzles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
